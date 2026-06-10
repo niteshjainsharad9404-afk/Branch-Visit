@@ -1,0 +1,6 @@
+{
+  "name": "Bank Branch Registry",
+  "description": "Systematically collect, manage, and back up bank branch structures, codes, and manager details into auto-compiled Excel files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
